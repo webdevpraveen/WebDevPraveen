@@ -20,7 +20,7 @@
 
 - 👨‍💻 All of my projects are available at [github/webdevpraveen](https://github.com/webdevpraveen)
 
-- 📄 Know about my experiences [linkedin/praveensingh-](https://www.linkedin.com/in/praveensingh-)
+- 📄 Know about my experiences [linkedIN](https://www.linkedin.com/in/praveensingh-)
 
 - ❤️ I love building open-source projects.
 
