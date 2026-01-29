@@ -44,3 +44,5 @@
 </picture>
 
 ---
+<p align="center"><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=webdevpraveen&theme=github" alt="stats webdevpraveen"/>
+&nbsp; <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=webdevpraveen&theme=github&utcOffset=8" alt="productive webdevpraveen"/></p>
