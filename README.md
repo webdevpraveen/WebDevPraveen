@@ -33,7 +33,14 @@
 </p>
 
 ---
-[![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=webdevpraveen&date_format=j%20M%5B%20Y%5D&card_width=999&stroke=EB8925)](https://webdevpraveen.github.io)
+<div align="center">
+<a href="https://webdevpraveen.github.io"><img src="https://nirzak-streak-stats.vercel.app?user=webdevpraveen&date_format=j%20M%5B%20Y%5D&card_width=700&stroke=EB8925" /> <a/> </div>
+
+###
+
+<p align="center"><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=webdevpraveen&theme=github" alt="stats webdevpraveen"/>
+&nbsp; <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=webdevpraveen&theme=github&utcOffset=8" alt="productive webdevpraveen"/></p>
+
 ---
 
 ###
@@ -44,5 +51,3 @@
 </picture>
 
 ---
-<p align="center"><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=webdevpraveen&theme=github" alt="stats webdevpraveen"/>
-&nbsp; <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=webdevpraveen&theme=github&utcOffset=8" alt="productive webdevpraveen"/></p>
