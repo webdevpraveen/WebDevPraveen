@@ -18,7 +18,7 @@
 
 - 🌱 I’m currently learning **Web Development and Programming**
 
-- 👨‍💻 All of my projects are available at [github/webdevpraveen](https://github.com/webdevpraveen)
+- 👨‍💻 All of my projects are available at [github/webdevpraveen](https://github.com/webdevpraveen/)
 
 - 📄 Know about my experiences [linkedIN](https://www.linkedin.com/in/praveensingh-)
 
