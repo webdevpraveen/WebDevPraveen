@@ -5,7 +5,7 @@
 
 <h1 align="center">Hi 👋, I'm Praveen Kumar Singh </h1>
 <h3 align="center">A Bachelor's Student of Computer Applications</h3>
-<a href="https://praveenksingh.vercel.app" target="_blank">
+<a href="https://praveenksingh.vercel.app/" target="_blank">
 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=webdevpraveen&base=500">
