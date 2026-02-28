@@ -8,7 +8,7 @@
 <a href="https://praveenksingh.vercel.app/" target="_blank">
 
 <p align="center">
-  <a href="https://komarev.com/ghpvc/?username=webdevpraveen&base=500">
+  <a href="https://komarev.com/ghpvc/?username=webdevpraveen">
    :octocat:  <img src="https://komarev.com/ghpvc/?username=webdevpraveen" alt="webdevpraveen's profile views" />  :octocat:
   </a>
 </p>
