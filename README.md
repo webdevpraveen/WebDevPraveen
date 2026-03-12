@@ -22,6 +22,8 @@
 
 - 📄 Know about my experiences [linkedIN](https://www.linkedin.com/in/praveenksingh-)
 
+- 🤖 Learning AI
+
 - ❤️ I love building open-source projects.
 
 <h3 align="left">Connect with me:</h3>
