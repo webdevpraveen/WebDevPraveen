@@ -36,8 +36,8 @@
 
 ---
 <div align="center">
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=webdevpraveen&date_format=j%20M%5B%20Y%5D&card_width=699&stroke=EB8925" alt="GitHub Streak" /></a> </div>
-
+<img src="https://streak-stats.demolab.com?user=webdevpraveen&theme=default&hide_border=true&card_width=699&stroke=EB8925" alt="webdevpraveen's GitHub Stats" />
+  
 ###
 
 <p align="center"><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=webdevpraveen&theme=github" alt="stats webdevpraveen"/>
