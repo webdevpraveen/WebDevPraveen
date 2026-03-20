@@ -20,7 +20,7 @@
 
 - 👨‍💻 All of my projects are available at [github/webdevpraveen](https://github.com/webdevpraveen/)
 
-- 📄 Know about my experiences [linkedIN](https://www.linkedin.com/in/praveenksingh-)
+- 📄 Know about my experiences [linkedIN](https://www.linkedin.com/in/praveenksingh-/)
 
 - 🤖 Learning AI
 
