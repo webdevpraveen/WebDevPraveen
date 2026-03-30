@@ -36,7 +36,7 @@
 
 ---
 <div align="center">
-<img src="https://streak-stats.demolab.com?user=webdevpraveen&theme=default&hide_border=true&card_width=700&stroke=EB8925" alt="webdevpraveen's GitHub Stats" />
+<img src="https://streak-stats.demolab.com?user=webdevpraveen&theme=default&hide_border=true&card_width=699&stroke=EB8925" alt="webdevpraveen's GitHub Stats" />
   
 ###
 
