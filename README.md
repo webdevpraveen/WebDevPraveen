@@ -32,10 +32,10 @@
 </p>
 
 ---
-<div align="center">
-<img src="https://streak-stats.demolab.com?user=webdevpraveen&theme=default&hide_border=true&card_width=699&stroke=EB8925" alt="webdevpraveen's GitHub Stats" />
   
 ###
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=webdevpraveen&card_width=699)](https://git.io/streak-stats)
 
 <p align="center"><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=webdevpraveen&theme=github" alt="stats webdevpraveen"/>
 &nbsp; <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=webdevpraveen&theme=github&utcOffset=8" alt="productive webdevpraveen"/></p>
